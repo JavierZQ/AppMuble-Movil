@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/archos/ClasesDeMovil2022/Preyectos/AppProyectMueble/app/src/main/res/drawable/buton_border.xml" value="0.206" />
+        <entry key="..\:/archos/ClasesDeMovil2022/Preyectos/AppProyectMueble/app/src/main/res/drawable/buton_color.xml" value="0.105" />
+        <entry key="..\:/archos/ClasesDeMovil2022/Preyectos/AppProyectMueble/app/src/main/res/drawable/buton_social.xml" value="0.2075" />
+        <entry key="..\:/archos/ClasesDeMovil2022/Preyectos/AppProyectMueble/app/src/main/res/drawable/color_lisview.xml" value="0.18" />
+        <entry key="..\:/archos/ClasesDeMovil2022/Preyectos/AppProyectMueble/app/src/main/res/layout/activity_detalle_porducto.xml" value="0.33" />
+        <entry key="..\:/archos/ClasesDeMovil2022/Preyectos/AppProyectMueble/app/src/main/res/layout/activity_inicio.xml" value="0.33" />
+        <entry key="..\:/archos/ClasesDeMovil2022/Preyectos/AppProyectMueble/app/src/main/res/layout/activity_lista.xml" value="0.225" />
+        <entry key="..\:/archos/ClasesDeMovil2022/Preyectos/AppProyectMueble/app/src/main/res/layout/activity_lista_producto.xml" value="0.3875" />
+        <entry key="..\:/archos/ClasesDeMovil2022/Preyectos/AppProyectMueble/app/src/main/res/layout/activity_login_admin.xml" value="0.2109375" />
+        <entry key="..\:/archos/ClasesDeMovil2022/Preyectos/AppProyectMueble/app/src/main/res/layout/activity_login_cliente.xml" value="0.25" />
+        <entry key="..\:/archos/ClasesDeMovil2022/Preyectos/AppProyectMueble/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/archos/ClasesDeMovil2022/Preyectos/AppProyectMueble/app/src/main/res/layout/activity_nuevo_producto.xml" value="0.33" />
+        <entry key="..\:/archos/ClasesDeMovil2022/Preyectos/AppProyectMueble/app/src/main/res/layout/activity_producto.xml" value="0.3734375" />
+        <entry key="..\:/archos/ClasesDeMovil2022/Preyectos/AppProyectMueble/app/src/main/res/layout/item.xml" value="0.33" />
+        <entry key="..\:/archos/ClasesDeMovil2022/Preyectos/AppProyectMueble/app/src/main/res/layout/item_car.xml" value="0.3875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
